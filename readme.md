@@ -18,3 +18,4 @@ Clone this repository into your Sublime packages directory using Git, and then r
 
 `ctrl` + `cmd` + `a` brings up a list of all of the errors.
 
+![screenshot](Screenshot.png)
