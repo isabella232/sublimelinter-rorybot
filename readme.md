@@ -25,4 +25,4 @@ SublimeLinter sends the linter output to the status bar at the bottom of the scr
 2. Select SublimeLinter > Debug Mode.
 3. Press `^` + `` ` `` to open the console.
 
-![sublime-linter rory with console open](screenshot.jpg)
+![sublime-linter rory with console open](screenshot.png)
