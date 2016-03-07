@@ -23,6 +23,6 @@ SublimeLinter sends the linter output to the status bar at the bottom of the scr
 
 1. Right-click on the text in a document.
 2. Select SublimeLinter > Debug Mode.
-3. Press `^` + `` ` `` to open the console.
+3. Press `ctrl` + `` ` `` to open the console.
 
 ![sublime-linter rory with console open](screenshot.png)
