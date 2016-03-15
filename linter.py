@@ -11,8 +11,8 @@
 from SublimeLinter.lint import NodeLinter
 
 
-class Rory(NodeLinter):
-    cmd = 'rory'
+class Rorybot(NodeLinter):
+    cmd = 'rorybot'
     regex = r'^\s+(?P<line>\d+):(?P<col>\d+).+(?:(?P<warning>warning)) (?P<message>.+)'
     selectors = {
         'html': 'text.html.basic'
