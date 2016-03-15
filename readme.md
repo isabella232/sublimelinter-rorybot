@@ -1,4 +1,4 @@
-# Sublimelinter-rory
+# Sublimelinter-rorybot
 
 This linter plugin for [**SublimeLinter**](http://www.sublimelinter.com/en/latest/) provides an interface to [**rory**](https://github.com/shopify/rory). It will run automatically on files that have the "plain text, "markdown", "ruby," "html," or "html (rails)"  syntax.
 
