@@ -6,9 +6,9 @@ This linter plugin for [**SublimeLinter**](http://www.sublimelinter.com/en/lates
 
 SublimeLinter 3 must be installed in order to use this plugin. Install SublimeLinter 3 through [Package Control](http://www.sublimelinter.com/en/latest/installation.html).
 
-## Installing rory
+## Installing rorybot
 
-Before using this plugin, you must ensure that Rory is installed on your system. To install **rory**, visit the readme file in the [**rory**](https://github.com/Shopify/rory) repo and follow the instructions there.
+Before using this plugin, you must ensure that **rorybot** is installed on your system. To install **rorybot**, visit the readme file in the [**rorybot**](https://github.com/Shopify/rorybot) repo and follow the instructions there.
 
 ## Installing sublimelinter-rory
 
@@ -25,4 +25,4 @@ SublimeLinter sends the linter output to the status bar at the bottom of the scr
 2. Select SublimeLinter > Debug Mode.
 3. Press `ctrl` + `` ` `` to open the console.
 
-![sublime-linter rory with console open](screenshot.png)
+![sublime-linter rorybot with console open](screenshot.png)
