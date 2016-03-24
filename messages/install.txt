@@ -1,10 +1,9 @@
-SublimeLinter-contrib-alex
+sublimelinter-rorybot
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to Alex.
-
+This linter plugin for sublimelinter provides an interface to rorybot.
 ** IMPORTANT! **
 
 Before this plugin will activate, you *must*
 follow the installation instructions here:
 
-https://github.com/sindresorhus/SublimeLinter-contrib-alex
+https://github.com/shopify/sublimelinter-rorybot
